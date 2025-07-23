@@ -3,6 +3,7 @@
 A full-stack Swiggy-inspired food delivery web application built using the **MERN** stack (MongoDB, Express.js, React, Node.js). Users can browse restaurants, view menus, add items to the cart, and place orders with real-time updates.
 
 ---
+![My Image](swiggy_clone/public/assets/photo.png)
 
 
 ## 🚀 Features
