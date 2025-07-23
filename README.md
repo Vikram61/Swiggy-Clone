@@ -4,6 +4,7 @@ A full-stack Swiggy-inspired food delivery web application built using the **MER
 
 ---
 
+
 ## 🚀 Features
 
 - 🔐 User Authentication (JWT-based)
